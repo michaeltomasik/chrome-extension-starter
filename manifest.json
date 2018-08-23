@@ -11,8 +11,7 @@
   },
   "browser_action": {
     "default_icon": {
-      "20": "images/icon20.png",
-      "32": "images/icon32.png"
+      "128": "images/door-open.png"
     },
     "default_title": "STARTER_KIT",
     "default_popup": "dist/index.html"
